@@ -1,6 +1,6 @@
 # Well Production Data Analyzer
 
-#### Video Demo: [Youtube]([URL](https://youtu.be/GkwPdZG_Ooc))
+#### Video Demo: [Youtube](https://youtu.be/GkwPdZG_Ooc)
 
 #### Description:
 

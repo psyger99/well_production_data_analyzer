@@ -1,9 +1,6 @@
-<<<<<<< HEAD
-# well_production_data_analyzer
-=======
 # Well Production Data Analyzer
 
-#### Video Demo: [Youtube](URL)
+#### Video Demo: [Youtube]([URL](https://youtu.be/GkwPdZG_Ooc))
 
 #### Description:
 

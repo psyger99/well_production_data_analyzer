@@ -41,7 +41,7 @@ This project was developed as the final requirement for Harvard's edX CS50P (Int
     - Monthly totals (bar charts)
     - Stacked monthly fluid production
     - Cumulative production and GOR/WOR plots
-5. **Output**: Cleaned data and anomalies are optionally exported as new CSV files. Graphs are saved as `.jpg` images for reporting and presentations.
+5. **Output**: Cleaned data and anomalies are exported as new CSV files. Graphs are saved as `.jpg` images for reporting and presentations.
 
 ---
 

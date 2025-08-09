@@ -86,4 +86,3 @@ Mocking techniques were used to simulate file input/output and ensure that all c
 Rainer Alano /// psyger-99
 Petroleum Engineer
 ```
->>>>>>> master
